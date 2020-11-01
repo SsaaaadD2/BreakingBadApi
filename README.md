@@ -4,4 +4,4 @@ A webpage to display character information for the characters from the TV show B
 
 
 ## See the deployed website at:
-### https://ssaaaaadd2-breakingbad.netlify.app/
+### https://sd2-breakingbad.netlify.app/
